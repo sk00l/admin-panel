@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "521621509248",
+    "project_id": "hrmanagement-bc458",
+    "storage_bucket": "hrmanagement-bc458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521621509248:android:642c917e88127df0428265",
+        "android_client_info": {
+          "package_name": "com.example.hr_app_redo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521621509248-o03g085c33mopgmugeganv02d0l8jef9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hr_app_redo",
+            "certificate_hash": "c37a170288c9996f0c81b7914827b9313047698e"
+          }
+        },
+        {
+          "client_id": "521621509248-hps78j7i7c38mfmr6janruokv51gao06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7gSUg8bzBACTMb3eIzkeYNxExjUfUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521621509248-hps78j7i7c38mfmr6janruokv51gao06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "521621509248-8jhdcc15juv0ig81k34kashpcjekobm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hrManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
